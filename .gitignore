@@ -1,0 +1,112 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Avoid committing crash reports and logs
+CrashReports/
+MemoryCaptures/
+
+# ==================== #
+# Visual Studio / Rider #
+# ==================== #
+.vscode/
+*.code-workspace
+.idea/
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# ===================== #
+# Unity Asset Metadata  #
+# ===================== #
+*.pidb.meta
+*.pdb.meta
+*.mdb
+*.svd.meta
+*.tlog
+
+# =================== #
+# Build Artifacts #
+# =================== #
+/[Bb]uilds/
+/[Bb]uild/
+/ExportedObj/
+/StreamingAssets/
+/.DS_Store
+
+# =================== #
+# Cache and Logs #
+# =================== #
+/[Bb]in/
+/[Oo]bj/
+/[Tt]emp/
+/[Ll]ogs/
+/UserSettings/
+
+# =================== #
+# Unity Packages #
+# =================== #
+/Packages/
+/Packages/manifest.json.meta
+/Packages/packages-lock.json
+
+# ================== #
+# Mac System Files  #
+# ================== #
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# =================== #
+# Windows System Files #
+# =================== #
+Thumbs.db
+Desktop.ini
+
+# =================== #
+# Linux System Files #
+# =================== #
+*~
+.nfs*
+
+# =================== #
+# JetBrains Rider #
+# =================== #
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ============ #
+# Other #
+# ============ #
+*.bak
+*.swp
+*.lock
+*.lock.json
+*.log
+*.log.meta
+*.~*
+
+# ================= #
+# Exclude Custom Folders #
+# ================= #
+/CustomBuilds/
