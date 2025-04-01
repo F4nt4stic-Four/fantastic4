@@ -63,9 +63,8 @@ MemoryCaptures/
 # =================== #
 # Unity Packages #
 # =================== #
-#/Packages/
-#/Packages/manifest.json.meta
-#/Packages/packages-lock.json
+/Packages/manifest.json.meta
+/Packages/packages-lock.json
 
 # ================== #
 # Mac System Files  #
@@ -110,3 +109,4 @@ Desktop.ini
 # Exclude Custom Folders #
 # ================= #
 /CustomBuilds/
+Assets/AsteroidsBelt/_GameAssets/_Models/Materials/space_frigate_0-space_frigate_0.mat.meta
