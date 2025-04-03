@@ -63,9 +63,9 @@ MemoryCaptures/
 # =================== #
 # Unity Packages #
 # =================== #
-/Packages/
-/Packages/manifest.json.meta
-/Packages/packages-lock.json
+#/Packages/
+#/Packages/manifest.json.meta
+#/Packages/packages-lock.json
 
 # ================== #
 # Mac System Files  #
