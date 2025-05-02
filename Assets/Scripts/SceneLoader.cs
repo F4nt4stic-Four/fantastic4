@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 [System.Serializable]
 public enum SceneType
 {
@@ -23,6 +24,8 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(sceneIndex);
     }
+
+    
 
     void QuitGame()
     {

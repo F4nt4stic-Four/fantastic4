@@ -9,6 +9,7 @@ TagManager:
   - Sphere
   - Actors
   - UI
+  - flicker
   layers:
   - Default
   - TransparentFX
